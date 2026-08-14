@@ -1,4 +1,4 @@
-# Egzaminas. Įrangos rezervacijos ir administravimo sistema. 
+# Įrangos rezervacijos ir administravimo sistema. 
 Sistemos teikiama paslauga yra galimybė užsirezervuoti automobilius nuomai. Čia nuoma ir rezervacija suprantama kaip panašus dalykas,
 vartotojas išsinuomoja tam tikrą automobilį tam tikrą laiką.
 
@@ -12,7 +12,6 @@ vartotojas išsinuomoja tam tikrą automobilį tam tikrą laiką.
 - **Programavimo kalbos:** HTML, CSS, JavaScript;
 - **Kiti įrankiai:** Git, Trello, Jest unit testam;
 - **Deployment:** frontend - Vercel, backend - Render;
-    - https://egzaminas-jddr-a6a68py71-linas-projects-34f26cb2.vercel.app/
       
 ## Rezervacijoms taikomi ribojimai:
 - Automobilis negali būti rezervuotas du kartus tam pačiam laikui;
